@@ -9,7 +9,7 @@ function displayContent() {
 
     let content = "";
     let headerColor = ""; 
-    let textColor = ""; 
+    let textColor = "sss"; 
     let backgroundColor = "";
 
 
